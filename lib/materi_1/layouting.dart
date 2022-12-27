@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class Materi_1 extends StatelessWidget {
-  const Materi_1({super.key});
+class Layouting extends StatelessWidget {
+  const Layouting({super.key});
 
   @override
   Widget build(BuildContext context) {
